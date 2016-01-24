@@ -6,4 +6,5 @@ package me.salaikumar.csv;
  */
 public class CSVParser {
 
+
 }
